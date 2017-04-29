@@ -229,6 +229,9 @@
             },
             ".mbr-price-term": {
               "font-size": "36px"
+            },
+            ".mbr-price-value": {
+              "font-size": "25px"
             }
           },
           "_tags": [
@@ -268,7 +271,7 @@
           "price1": "$120/hour",
           "period1": "",
           "description1": "Online/ Meetup consulting sessions.",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">In-depth discussion of your goals,&nbsp;<span style=\"font-size: 0.875rem; line-height: 3.125rem;\">dreams and roadblocks.</span></li><li class=\"list-group-item\">Thourough diagnosis of your IG account and what's keeping it from reaching the full potential.</li><li class=\"list-group-item\">Recommendations of the direction and strategy of your IG.</li></ul>",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">In-depth discussion of your goals,&nbsp;<span style=\"font-size: 0.875rem; line-height: 3.125rem;\">dreams and roadblocks.</span></li><li class=\"list-group-item\">Thorough diagnosis of your IG account and what's keeping it from reaching the full potential.</li><li class=\"list-group-item\">Recommendations of the direction and strategy of your IG.</li></ul>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
           "label2": "HOT!",
           "title2": "OUTSOURCE YOUR ACCOUNT MANAGEMENT",
@@ -314,7 +317,7 @@
               "border-color": "#cfcfcf"
             },
             ".mbr-price-figure": {
-              "font-size": "30px"
+              "font-size": "25px"
             }
           },
           "_tags": [
@@ -350,11 +353,11 @@
           "label1": "HOT!",
           "title1": "BRAND REVAMP REPORT",
           "subtitle1": "Finding the Right Social Media tone and style for you.",
-          "currency1": "$",
-          "price1": "500",
+          "currency1": "",
+          "price1": "$500",
           "period1": "/report",
           "description1": "Analysis and Recommendations Report",
-          "list1": "<ul class=\"list-group list-group-flush\"><span style=\"font-size: 14px; line-height: 50px;\">In-depth report that includes a thourough analysis of your account and a suggestions to find your own photography Ssyle, caption style, ratio of content types (e.g. product photos vs lifestyle photos)</span></ul>",
+          "list1": "<ul class=\"list-group list-group-flush\"><span style=\"font-size: 14px; line-height: 50px;\">An in-depth report that includes a thorough analysis of your account and suggestions to find your own photography style, caption style, ratio of content types (e.g. product photos vs lifestyle photos) etc.</span></ul>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
           "label2": "HOT!",
           "title2": "CONTENT CREATION TRAINING",
@@ -363,25 +366,25 @@
           "price2": "",
           "period2": "$150/Hour",
           "description2": "Online and Offline Training",
-          "list2": "<ul class=\"list-group list-group-flush\"><p></p><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Topics include</span></li><span style=\"font-size: 14px; line-height: 50px;\">Photography/Phoneography Crash Course</span><p></p><p><span style=\"font-size: 14px; line-height: 50px;\">Tips in Writing Captions</span></p><p><span style=\"font-size: 14px; line-height: 50px;\">Creating IG Calendar Guide (What to Post and When) and more!</span></p></ul>",
+          "list2": "<ul class=\"list-group list-group-flush\"><p></p><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Topics include</span></li><span style=\"font-size: 14px; line-height: 50px;\">Photography/ Phoneography Crash Course</span><p></p><p><span style=\"font-size: 14px; line-height: 50px;\">Tips in Writing Captions</span></p><p><span style=\"font-size: 14px; line-height: 50px;\">Creating IG Calendar Guide (What to Post and When) and more!</span></p></ul>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
           "label3": "HOT!",
           "title3": "HOLDING CONTESTS",
           "subtitle3": "Hosting a Contest is a great way to get instant followers and engagement.",
-          "currency3": "From $",
-          "price3": "500",
+          "currency3": "From",
+          "price3": "$500",
           "period3": "/ project",
           "description3": "Contests and Campaigns",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Plan and host simple IG contest.</span></li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">For more extensive contests, we can even find sponsors and/or collaborators for greater impact<br></span></li></ul>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Plan and host simple IG contest.</span></li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">For more extensive contests, we can even find sponsors and/or collaborators for greater impact</span></li></ul>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
           "label4": "HOT!",
           "title4": "COLLABORATIONS WITH OTHER INFLUENCERS",
           "subtitle4": "Two heads are better than one.&nbsp;",
           "currency4": "",
-          "price4": "YOUR &amp; AND EFFORT",
+          "price4": "YOUR TIME &amp; EFFORT",
           "period4": "",
           "description4": "Community of Practice/ Joint Accounts&nbsp;",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">We can help you find like-minded influencers in the reagion to discuss mutually beneficial possible collaborations and projects.</span></li></ul>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">We can help you find like-minded influencers in the region to discuss mutually beneficial collaborations and projects.</span></li></ul>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>"
         },
         {

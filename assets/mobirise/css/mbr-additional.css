@@ -782,6 +782,9 @@ h6,
 #pricing-table2-3 .mbr-price-term {
   font-size: 36px;
 }
+#pricing-table2-3 .mbr-price-value {
+  font-size: 25px;
+}
 #pricing-table2-p .mbr-plan-header,
 #pricing-table2-p .mbr-plan-body {
   background-color: #f4f4f4;
@@ -800,7 +803,7 @@ h6,
   border-color: #cfcfcf;
 }
 #pricing-table2-p .mbr-price-figure {
-  font-size: 30px;
+  font-size: 25px;
 }
 #msg-box8-4 .mbr-section-title,
 #msg-box8-4 p {
